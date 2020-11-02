@@ -1,8 +1,9 @@
 <template>
   <div id="app">
-    22222
+    <!-- 22222 -->
     <home-page></home-page>
-    <router-view/>
+    <!-- <HelloWorld></HelloWorld> -->
+    <!-- <router-view/> -->
   </div>
 </template>
 
@@ -19,7 +20,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  /* margin-top: 60px; */
 }
 *{
     margin: 0;
@@ -65,10 +66,10 @@ a{
         margin-left: 160px;
     }
 }
-.navbar-brand img{
+/* .navbar-brand img{
     width:150px;
     height:80px;
-}
+} */
 .nav_link{
     width:820px;
     height:80px;
